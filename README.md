@@ -1,2 +1,2 @@
 # My-Site
-I have made a basic portfolio site using html and css
+I have made my portfolio site using html and css
